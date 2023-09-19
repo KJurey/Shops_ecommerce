@@ -21,6 +21,7 @@ const Home = () => {
     <>
       <div>
         <Carousel />
+        
         <Categories />
         <MainReelContainer>
           <ReelContainer>
