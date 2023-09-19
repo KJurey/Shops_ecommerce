@@ -1,5 +1,5 @@
 import { MainSignContainer, FormComponentContainer } from "../styles/SignStyles";
-import { ReactComponent as LogoIcon } from '../assets/logo.svg';
+import { ReactComponent as LogoIcon } from '../assets/Logo.svg';
 import NavigateTo from "../utils/NavigateTo";
 import SignupForm from "../components/Form/SignupForm";
 

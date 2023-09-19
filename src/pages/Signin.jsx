@@ -1,6 +1,6 @@
 import { FormComponentContainer, MainSignContainer } from "../styles/SignStyles";
 import Form from "../components/Form/Form";
-import { ReactComponent as LogoIcon } from '../assets/logo.svg';
+import { ReactComponent as LogoIcon } from '../assets/Logo.svg';
 import NavigateTo from "../utils/NavigateTo";
 import { Button } from "@mui/material";
 import { useMediaQuery } from "@mui/material"
