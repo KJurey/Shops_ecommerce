@@ -1,5 +1,5 @@
 import NavigateTo from "../utils/NavigateTo";
-import { ReactComponent as LogoIcon } from '../assets/logo.svg';
+import { ReactComponent as LogoIcon } from '../assets/Logo.svg';
 import { MainSignSuccessContainer } from '../styles/SignStyles';
 import { Typography } from "@mui/material";
 import AnimamtionContainer from "../components/SignAnimations/AnimationContainer";
