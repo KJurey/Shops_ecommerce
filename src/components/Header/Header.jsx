@@ -14,7 +14,7 @@ import {
 } from '@mui/material';
 import AppBar from '@mui/material/AppBar';
 import SearchBar from '../SearchBar/SearchBar';
-import { ReactComponent as LogoIcon } from '../../assets/logo.svg';
+import { ReactComponent as LogoIcon } from '../../assets/Logo.svg';
 import { useNavigate } from 'react-router-dom';
 
 
