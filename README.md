@@ -1,8 +1,30 @@
-# React + Vite
+Shops E-commerce
+Shops E-commerce is a sample project developed for showcasing purposes in a portfolio. It is an e-commerce website built using HTML, CSS, React, and JavaScript.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Installation
+As this project was developed using React with the Vite framework, you need to have Node.js installed on your system. To set up the project, follow these steps:
 
-Currently, two official plugins are available:
+1. Clone this repository to your local machine using:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+git clone https://github.com/yourusername/Shops_ecommerce.git
+
+2. Navigate to the project directory:
+
+cd Shops_ecommerce
+
+3. Install dependencies using npm:
+
+npm install
+
+Usage
+To run the project locally, use the following command:
+
+npm start
+
+This will start the development server, and you can view the website in your browser at http://localhost:3000.
+
+Contributing
+This project is solely for showcasing purposes and does not accept contributions at the moment.
+
+License
+This project is not licensed.
